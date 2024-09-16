@@ -1,0 +1,5 @@
+api:
+  image:
+    tag: 1.0.1
+    githubLink: >-
+      "https://github.com/yogiyo/actyo/commit/928ea6e58f83e3d75792e15901c44dab7134a19d"
